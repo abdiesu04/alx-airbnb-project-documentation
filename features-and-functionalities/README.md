@@ -35,10 +35,6 @@ The backend will implement the following essential features:
 - **Add Listings**: Hosts can add property details (title, description, location, price, amenities).
 - **Edit/Delete Listings**: Hosts can update or remove properties.
 
-**Diagram Placeholder:**  
-*Insert diagram showing how property data flows between the database, APIs, and hosts.*
-
----
 
 #### **1.3 Search and Filtering**
 - Implement a search functionality allowing users to filter properties by:
@@ -48,11 +44,7 @@ The backend will implement the following essential features:
   - Amenities (e.g., Wi-Fi, pool, pet-friendly)
 - Include pagination for large datasets.
 
-**Diagram Placeholder:**  
-
-**Diagram Placeholder:**  
-![Search and Filtering Diagram](path/to/your/image.png)
----
+![Property Management](./public/Property_management.drawio.png)
 
 #### **1.4 Booking Management**
 - **Create Booking**: Prevent double bookings using date validation.
