@@ -51,8 +51,7 @@ The backend will implement the following essential features:
 - **Cancel Booking**: Allow guests and hosts to cancel based on policies.
 - **Booking Status**: Track statuses such as pending, confirmed, canceled, or completed.
 
-**Diagram Placeholder:**  
-*Insert workflow showing booking creation, validation, and status tracking.*
+![Booking Management]('./public/Booking Management.jpg')
 
 ---
 
@@ -62,8 +61,7 @@ The backend will implement the following essential features:
   - Host payouts.
 - Support for multiple currencies.
 
-**Diagram Placeholder:**  
-*Insert flowchart showing payment processes (guest to host, gateway validation).*
+
 
 ---
 
@@ -86,8 +84,6 @@ The backend will implement the following essential features:
 - **Data Relationships**:
   - Link `Reviews` to `Bookings` to avoid review misuse.
 
-**Diagram Placeholder:**  
-*Insert ER diagram showing table relationships.*
 
 ---
 
@@ -96,9 +92,6 @@ The backend will implement the following essential features:
   - HTTP methods: GET, POST, PUT/PATCH, DELETE.
   - Proper status codes.
 - **Optional**: Use GraphQL for complex queries.
-
-**Diagram Placeholder:**  
-*Insert an example API request/response flow.*
 
 ---
 
@@ -109,7 +102,6 @@ The backend will implement the following essential features:
   - Hosts
   - Admins
 
-**Diagram Placeholder:**  
-*Insert RBAC model diagram.*
+
 
 ---
