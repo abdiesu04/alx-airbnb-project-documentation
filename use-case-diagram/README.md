@@ -1,6 +1,6 @@
 # Use Case for Registration
 
-![User Registration](../features-and-functionalities/public/registration%20usecase_.png)
+![User Registration](../features-and-functionalities/public/registrationusecase_.png)
 
 # Use Case for Booking
 
