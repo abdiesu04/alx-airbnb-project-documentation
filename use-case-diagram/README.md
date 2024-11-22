@@ -4,8 +4,8 @@
 
 # Use Case for Booking
 
-![Booking](../features-and-functionalities/public/booking%20usecase.png)
+![Booking](../features-and-functionalities/public/bookingUsecase.png)
 
 # Use Case for Payment System
 
-![Payment System](../features-and-functionalities/public/payment%20usecase.png)
+![Payment System](../features-and-functionalities/public/paymentusecase.png)
